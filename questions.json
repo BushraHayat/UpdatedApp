@@ -1,0 +1,123 @@
+{"quizlist":[
+      {
+      "question":"Portuguese is spoken in ______",
+      "option1":"Brazil",
+      "option2":"Argentina",
+      "option3":"Ecuador"
+      },
+      {
+      "question":"What is the capital of Peru?",
+      "option1":"Lima",
+      "option2":"Bogota",
+      "option3":"San Juan"
+      },
+      {
+      "question":"Which country is long and thin?",
+      "option1":"Chile",
+      "option2":"Uruguay",
+      "option3":"Colombia"
+      },
+	  {
+      "question":"In Computers, what interprets the hypertext links and lets users view sites and navigate from one internet node to another?",
+      "option1":"Browser",
+      "option2":"Route",
+      "option3":"Ridge"
+      },
+	  {
+      "question":"Which of these is measured with the help of a glucometer?",
+      "option1":"Blood Sugar",
+      "option2":"Vision",
+      "option3":"Heartbeat"
+      },
+	  {
+      "question":"How many watts equal a megawatt?",
+      "option1":"One lakh",
+      "option2":"One thousand",
+      "option3":"Ten thousand"
+      },
+	  {
+      "question":"Arrange these films in increasing order of the numbers mentioned in their titles. a. Sholay 3D b. Ek Villain c. 2states d. Dedh Ishqiya",
+      "option1":"BDCA",
+      "option2":"ABCD",
+      "option3":"BCDA"
+      },
+	  {
+      "question":"Which of these numbers is only divisible by 1 and itself?",
+      "option1":"13",
+      "option2":"15",
+      "option3":"12"
+      },
+	  {
+      "question":"Which of these animals is the largest member of the dog family?",
+      "option1":"Wolf",
+      "option2":"Hyena",
+      "option3":"Fox"
+      },
+	  {
+	  "question":"Which of these sports requires you to shout out a word loudly during play?",
+      "option1":"Kho-kho",
+      "option2":"Ludo",
+      "option3":"Playing cards"
+      },
+	  {
+	  "question":"Which of these spices is the smallest in size?",
+      "option1":"Ajwain",
+      "option2":"Saunf",
+      "option3":"Jeera"
+      },
+	  {
+	  "question":"Which of these medical conditions is most likely to cause dehydration?",
+      "option1":"Diarrhea",
+      "option2":"Tetanus",
+      "option3":"Malaria"
+      },
+	  {
+	  "question":"Which of these gases is named for it’s color?",
+      "option1":"Chlorine",
+      "option2":"Methane",
+      "option3":"Helium"
+      },
+	  {
+	  "question":"On an average which is the largest tree borne fruit in the world?",
+      "option1":"Jackfruit",
+      "option2":"Pumpkin",
+      "option3":"Papaya"
+      },
+	  {
+	  "question":"The first Nobel prize in physics was awarded for the discovery of what?",
+      "option1":"X ray",
+      "option2":"Vacuum tubes",
+      "option3":"Laser"
+      },
+	  {
+	  "question":"The newborn of which of these mammals weighs the heaviest?",
+      "option1":"Blue Whale",
+      "option2":"African Elephant",
+      "option3":"Hippopotamus"
+      },
+	  {
+	  "question":"Which of these fabrics is named after a city in Iraq?",
+      "option1":"Muslin",
+      "option2":"Tussar",
+      "option3":"Angora"
+      },
+	  {
+	  "question":"On a football field which of these is nearest to the goal post?",
+      "option1":"Penalty mark",
+      "option2":"Corner",
+      "option3":"Halfway line "
+      },
+	  {
+	  "question":"What number is halfway between 11 and 19?",
+      "option1":"15",
+      "option2":"16",
+      "option3":"14"
+      },
+	   {
+	  "question":"Which of these creatures mainly lays eggs though some of its species also gives birth to young ones?",
+      "option1":"Lizards",
+      "option2":"Rats",
+      "option3":"Bats"
+      }
+	]
+}
